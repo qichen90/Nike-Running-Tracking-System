@@ -1,0 +1,15 @@
+package demo.model;
+
+import lombok.Data;
+
+@Data
+public class MedicalInfo {
+    private long medicalInfoId;
+    private String bandMake;
+    private String medicalInfoClassification;
+    private String aidInstruction;
+
+    public MedicalInfo() {
+
+    }
+}

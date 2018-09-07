@@ -1,0 +1,4 @@
+demo/LocationDataGenerationServiceApplication.class
+demo/Location.class
+demo/LocationRepository.class
+demo/LocationGenerationServiceRestController.class
